@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.gitignore
+.vscode
+*.log
+npm-debug.log*
+README.md
+extract.cjs
+Fonts
+Folk Charachters
+georgia.svg
+Mekhuzla_and_Darchia.jpg
+Music of sisona.mp4
+Story of sisona.txt
